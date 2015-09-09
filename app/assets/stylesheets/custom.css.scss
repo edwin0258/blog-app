@@ -3,11 +3,13 @@
 
 body{
   padding-top:70px;
-  background: #D8D8D8;
+  background-image: url("http://montco.happeningmag.com/wp-content/uploads/2013/08/night-sky-hd-wallpaper-2.jpg");
   color: #791e9e;
   overflow-x:hidden;
 }
-
+.navbar{
+  background-color:black !important;
+}
 .article-title, .article-body{
   padding-left: 0.7em;
 }
