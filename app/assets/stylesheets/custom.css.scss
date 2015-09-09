@@ -4,14 +4,32 @@
 body{
   padding-top:70px;
   background-image: url("http://montco.happeningmag.com/wp-content/uploads/2013/08/night-sky-hd-wallpaper-2.jpg");
-  color: #791e9e;
+  color: #8be0f9;
   overflow-x:hidden;
 }
 .navbar{
   background-color:black !important;
 }
+.index-title, .header-text{
+  background-color:#4c4a6e;
+  opacity:.7;
+  color:white;
+  border-radius:5px;
+}
+.article-title:link{
+  color:#4bb7d9;
+}
 .article-title, .article-body{
-  padding-left: 0.7em;
+  padding-left:20px;
+}
+.login-container{
+  background-color:tan;
+  padding:10px;
+  float: center;
+}
+.well-lg{
+  background-color:#b1c7f9;
+  color:black;
 }
 .article-title{
   font-weight: bold;
